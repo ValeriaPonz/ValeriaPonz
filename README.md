@@ -22,23 +22,26 @@
 
 ### 💻 Habilidades técnicas
 
-**Desarrollo Frontend**
+**🎨 Desarrollo Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**Desarrollo Backend**
+**⚙️ Desarrollo Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs" />
 </p>
 
-**Bases de datos**
+**🗄️ Bases de datos**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+- SQL
+- MySQL
 
 **Herramientas y tecnologías**
 
